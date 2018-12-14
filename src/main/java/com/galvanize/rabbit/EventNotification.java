@@ -1,11 +1,7 @@
 package com.galvanize.rabbit;
 
-import java.math.BigInteger;
 import lombok.Builder;
 import lombok.Data;
-import lombok.NoArgsConstructor;
-
-import java.util.Date;
 @Data
 public class EventNotification {
 
